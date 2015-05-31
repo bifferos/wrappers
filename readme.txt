@@ -14,12 +14,9 @@ of the win32 API from python.
 	
 Any C/C++ programmer after years of developing for Windows, starts to see 
 patterns (as well as gross inconsistencies) in the windows API.  Although it's
-normous, there are only so many techniques that can be used to talk to a C API,
+enormous, there are only so many techniques that can be used to talk to a C API,
 and I've always felt that if those specific cases were dealt with, it would be 
-possible to generate wrappers for high level languages without resorting to 
-Gcc-xml, SWIG or any of the other wrapper generators.  They all save you work, 
-however there is still an enormous amount of work to do (even once you've 
-understood them).
+possible to generate wrappers for high level languages automatically.
 	
 I came up with an idea, that since developing C programs is almost impossible 
 without a compiler (and possibly a debugger as well), why not use the compiler,
