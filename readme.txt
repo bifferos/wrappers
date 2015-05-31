@@ -25,6 +25,6 @@ I came up with an idea, that since developing C programs is almost impossible
 without a compiler (and possibly a debugger as well), why not use the compiler,
 as an inexperienced programmer might, as a way of generating wrappers.  This is
 the first part of that implementation.  The next parts, generation of structs,
-and function wrappers themselves I hope to have time to do afterwards.  I already
-have a hacked-up proof of concept for structs, so watch this space :-).
+and function wrappers themselves I hope to have time to do afterwards.  I 
+already have a hacked-up proof of concept for structs, so watch this space :-).
 
